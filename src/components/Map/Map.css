@@ -1,0 +1,6 @@
+@media screen and (max-width: 599px) {
+  .map-wrapper {
+    order: -5;
+    height: 400px;
+  }
+}

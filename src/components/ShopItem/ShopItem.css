@@ -1,0 +1,8 @@
+.shop {
+  box-shadow: 0px 2px 5px 1px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+}
+.shop-address-list {
+  list-style-type: none;
+  padding-left: 0;
+}
